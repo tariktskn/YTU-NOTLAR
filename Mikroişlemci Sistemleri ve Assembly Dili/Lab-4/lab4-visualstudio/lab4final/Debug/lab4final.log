@@ -1,0 +1,11 @@
+﻿  21011022.cpp
+C:\Users\tarik\Desktop\BM Ders Notları\Mikroişlemci Sistemleri ve Assembly Dili\Lab-4\lab4-visualstudio\21011022.cpp(56,14): warning C4101: 'matrix_value': yerel değişken başvurusu kaldırıldı
+C:\Users\tarik\Desktop\BM Ders Notları\Mikroişlemci Sistemleri ve Assembly Dili\Lab-4\lab4-visualstudio\21011022.cpp(56,28): warning C4101: 'kernel_value': yerel değişken başvurusu kaldırıldı
+C:\Users\tarik\Desktop\BM Ders Notları\Mikroişlemci Sistemleri ve Assembly Dili\Lab-4\lab4-visualstudio\21011022.cpp(143,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\tarik\Desktop\BM Ders Notları\Mikroişlemci Sistemleri ve Assembly Dili\Lab-4\lab4-visualstudio\21011022.cpp(144,27): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\tarik\Desktop\BM Ders Notları\Mikroişlemci Sistemleri ve Assembly Dili\Lab-4\lab4-visualstudio\21011022.cpp(163,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\tarik\Desktop\BM Ders Notları\Mikroişlemci Sistemleri ve Assembly Dili\Lab-4\lab4-visualstudio\21011022.cpp(164,27): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\tarik\Desktop\BM Ders Notları\Mikroişlemci Sistemleri ve Assembly Dili\Lab-4\lab4-visualstudio\21011022.cpp(184,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\tarik\Desktop\BM Ders Notları\Mikroişlemci Sistemleri ve Assembly Dili\Lab-4\lab4-visualstudio\21011022.cpp(185,27): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\tarik\Desktop\BM Ders Notları\Mikroişlemci Sistemleri ve Assembly Dili\Lab-4\lab4-visualstudio\21011022.cpp(211,19): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  lab4final.vcxproj -> C:\Users\tarik\Desktop\BM Ders Notları\Mikroişlemci Sistemleri ve Assembly Dili\Lab-4\lab4-visualstudio\Debug\lab4final.exe
